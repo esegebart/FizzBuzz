@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98f4f15c-fe90-43ef-ad9d-7a524f088473" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FizzBuzz/FizzBuzzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FizzBuzz/FizzBuzzTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FizzBuzzTest.java" afterDir="false" />
@@ -14,6 +15,20 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,20 +53,27 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/lib/javafx-sdk-12.0.1/lib/javafx.web.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedAMultipleOfThreeItReturnsFizz">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzz" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,10 +115,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedAMultipleOfThreeItReturnsFizz" />
         <item itemvalue="JUnit.FizzBuzzTest" />
-        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedATwoItReturnsATwo" />
         <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedANumberItReturnsThatNumber" />
+        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedAMultipleOfThreeItReturnsFizz" />
+        <item itemvalue="JUnit.FizzBuzzTest.whenFizzBuzzIsPassedATwoItReturnsATwo" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593448902803</updated>
-      <workItem from="1593448907240" duration="1256000" />
+      <workItem from="1593448907240" duration="4290000" />
     </task>
     <servers />
   </component>
@@ -118,33 +140,91 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="72" key="#Project_Structure" timestamp="1593448983355">
+    <state x="362" y="72" key="#Project_Structure" timestamp="1593453199220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593448983355" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1593450165092">
+    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593453199220" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1593453266060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593450165092" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1593450165092">
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1593453266060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593450165092" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1593450165092">
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1593453266059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593450165092" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1593450165092">
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593453266059" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1593453266060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593450165092" />
-    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593449097923">
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1593453266060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1593449097923" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1593453266060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1593453266060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1593453266060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593453266060" />
+    <state x="585" y="347" key="ReplaceDuplicatesPrompt" timestamp="1593452816416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="585" y="347" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1593452816416" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1593453135234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593453135234" />
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593450418075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1593450418075" />
+    <state x="500" y="169" width="536" height="494" key="extract.method.dialog" timestamp="1593452794969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="169" width="536" height="494" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1593452794969" />
     <state x="203" y="34" key="new project wizard" timestamp="1593449018958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="203" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593449018958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/FizzBuzzTest.java</url>
+          <line>6</line>
+          <properties field="fizzBuzz" class="FizzBuzzTest" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FizzBuzzTest.java</url>
+          <line>9</line>
+          <properties class="FizzBuzzTest" method="setUp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FizzBuzzTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FizzBuzzTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
